@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (3.1.4)
+  - Box (1.2.2)
+  - Nimble (3.0.0)
+  - Quick (0.8.0)
+  - ReactiveCocoa (3.0.0):
+    - ReactiveCocoa/UI (= 3.0.0)
+    - Result (~> 0.4.1)
+  - ReactiveCocoa/Core (3.0.0):
+    - ReactiveCocoa/no-arc
+    - Result (~> 0.4.1)
+  - ReactiveCocoa/no-arc (3.0.0):
+    - Result (~> 0.4.1)
+  - ReactiveCocoa/UI (3.0.0):
+    - ReactiveCocoa/Core
+    - Result (~> 0.4.1)
+  - Result (0.4.4):
+    - Box (~> 1.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - Nimble (= 3.0.0)
+  - Quick (~> 0.8.0)
+  - ReactiveCocoa (~> 3.0)
+
+SPEC CHECKSUMS:
+  Alamofire: fbc829692f351fa1d8a31dd75fd7f7f56fea31fb
+  Box: a92e8aa4c099e6bc0733829665caf9e668ef53b8
+  Nimble: 4c353d43735b38b545cbb4cb91504588eb5de926
+  Quick: 563d0f6ec5f72e394645adb377708639b7dd38ab
+  ReactiveCocoa: 5c4710e2f00f69f39a7f135d1f3ab48f8dace034
+  Result: b44f6bc8762bbffaf2c5df58f2c7d12c3496ced8
+
+COCOAPODS: 0.38.2

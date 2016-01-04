@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (3.1.4)
+  - Nimble (3.0.0)
+  - Quick (0.8.0)
+  - ReactiveCocoa (4.0.4-alpha-4):
+    - ReactiveCocoa/UI (= 4.0.4-alpha-4)
+    - Result (~> 1.0)
+  - ReactiveCocoa/Core (4.0.4-alpha-4):
+    - ReactiveCocoa/no-arc
+    - Result (~> 1.0)
+  - ReactiveCocoa/no-arc (4.0.4-alpha-4):
+    - Result (~> 1.0)
+  - ReactiveCocoa/UI (4.0.4-alpha-4):
+    - ReactiveCocoa/Core
+    - Result (~> 1.0)
+  - Result (1.0.1)
+  - SwiftyJSON (2.3.2)
+  - Swinject (0.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.1.0)
+  - Nimble (= 3.0.0)
+  - Quick (~> 0.8.0)
+  - ReactiveCocoa (~> 4.0.0-RC.1)
+  - SwiftyJSON (~> 2.3.0)
+  - Swinject (= 0.5)
+
+SPEC CHECKSUMS:
+  Alamofire: fbc829692f351fa1d8a31dd75fd7f7f56fea31fb
+  Nimble: 4c353d43735b38b545cbb4cb91504588eb5de926
+  Quick: 563d0f6ec5f72e394645adb377708639b7dd38ab
+  ReactiveCocoa: e459ea92099447802df20c4735e31e8139b06094
+  Result: caef80340451e1f07492fa1e89117f83613bce24
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  Swinject: 0bf92c3336808a69d162bcf8f338774640de518a
+
+COCOAPODS: 0.38.2

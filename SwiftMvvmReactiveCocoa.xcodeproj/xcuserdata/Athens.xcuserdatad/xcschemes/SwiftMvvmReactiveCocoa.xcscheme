@@ -48,6 +48,36 @@
                ReferencedContainer = "container:SwiftMvvmReactiveCocoa.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8887F7031C39948E00109BEE"
+               BuildableName = "SwiftMvvmReactiveCocoaModelTests.xctest"
+               BlueprintName = "SwiftMvvmReactiveCocoaModelTests"
+               ReferencedContainer = "container:SwiftMvvmReactiveCocoa.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8887F7261C3994B600109BEE"
+               BuildableName = "SwiftMvvmReactiveCocoaViewModelTests.xctest"
+               BlueprintName = "SwiftMvvmReactiveCocoaViewModelTests"
+               ReferencedContainer = "container:SwiftMvvmReactiveCocoa.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8887F7481C3994C500109BEE"
+               BuildableName = "SwiftMvvmReactiveCocoaViewTests.xctest"
+               BlueprintName = "SwiftMvvmReactiveCocoaViewTests"
+               ReferencedContainer = "container:SwiftMvvmReactiveCocoa.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
