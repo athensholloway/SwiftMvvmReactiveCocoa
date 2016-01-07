@@ -7,6 +7,7 @@
 //
 
 import XCTest
+import Quick
 @testable import SwiftMvvmReactiveCocoaViewModel
 
 class SwiftMvvmReactiveCocoaViewModelTests: XCTestCase {

@@ -2,7 +2,7 @@
 //  SwiftMvvmReactiveCocoaModel.h
 //  SwiftMvvmReactiveCocoaModel
 //
-//  Created by Athens Holloway on 1/3/16.
+//  Created by Athens Holloway on 1/4/16.
 //  Copyright © 2016 Logic Artisan, Inc. All rights reserved.
 //
 

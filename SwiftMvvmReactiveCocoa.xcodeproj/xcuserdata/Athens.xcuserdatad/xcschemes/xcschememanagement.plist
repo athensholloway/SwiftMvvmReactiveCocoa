@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>SwiftMvvmReactiveCocoaModel.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>18</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -53,6 +58,16 @@
 			<true/>
 		</dict>
 		<key>8887F7481C3994C500109BEE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>88E7C85E1C3B54AF00286B10</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>88E7C8671C3B54AF00286B10</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -1,0 +1,6 @@
+framework module Pods_SwiftMvvmReactiveCocoa {
+  umbrella header "Pods-SwiftMvvmReactiveCocoa-umbrella.h"
+
+  export *
+  module * { export * }
+}

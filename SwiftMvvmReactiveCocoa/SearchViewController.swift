@@ -8,6 +8,7 @@
 
 import UIKit
 import ReactiveCocoa
+import Himotoki
 
 class SearchViewController: UIViewController {
     let viewModel = SearchViewModel()

@@ -78,6 +78,16 @@
                ReferencedContainer = "container:SwiftMvvmReactiveCocoa.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "88E7C8671C3B54AF00286B10"
+               BuildableName = "SwiftMvvmReactiveCocoaModelTests.xctest"
+               BlueprintName = "SwiftMvvmReactiveCocoaModelTests"
+               ReferencedContainer = "container:SwiftMvvmReactiveCocoa.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
